@@ -1,0 +1,5 @@
+task.c:10:6:function1	8	static
+task.c:15:6:function2	8	static
+task.c:20:6:function3	8	static
+task.c:25:6:function4	8	static
+task.c:29:6:function5	8	static
